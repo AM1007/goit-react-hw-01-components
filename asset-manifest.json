@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AM1007/goit-react-hw-01-components.git/static/css/main.d446a1ea.css",
-    "main.js": "/AM1007/goit-react-hw-01-components.git/static/js/main.7fba7121.js",
-    "index.html": "/AM1007/goit-react-hw-01-components.git/index.html",
-    "main.d446a1ea.css.map": "/AM1007/goit-react-hw-01-components.git/static/css/main.d446a1ea.css.map",
-    "main.7fba7121.js.map": "/AM1007/goit-react-hw-01-components.git/static/js/main.7fba7121.js.map"
+    "main.css": "/parcel-project-group-21/static/css/main.d446a1ea.css",
+    "main.js": "/parcel-project-group-21/static/js/main.3901c254.js",
+    "index.html": "/parcel-project-group-21/index.html",
+    "main.d446a1ea.css.map": "/parcel-project-group-21/static/css/main.d446a1ea.css.map",
+    "main.3901c254.js.map": "/parcel-project-group-21/static/js/main.3901c254.js.map"
   },
   "entrypoints": [
     "static/css/main.d446a1ea.css",
-    "static/js/main.7fba7121.js"
+    "static/js/main.3901c254.js"
   ]
 }
